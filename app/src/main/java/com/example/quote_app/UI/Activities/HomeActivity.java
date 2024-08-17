@@ -105,10 +105,10 @@ public class HomeActivity extends AppCompatActivity implements NavigationView.On
         drawerLayout.closeDrawer(GravityCompat.START);
         return true;
     }
-    protected void onActivityResult(int requestCode, int resultCode, @Nullable Intent data) {
-        super.onActivityResult(requestCode, resultCode, data);
-        if (resultCode == RESULT_OK && data != null) {
-            QuoteModel updatedQuote = (QuoteModel) data.getSerializableExtra("updatedQuote");
-        }
-    }
+//    protected void onActivityResult(int requestCode, int resultCode, @Nullable Intent data) {
+//        super.onActivityResult(requestCode, resultCode, data);
+//        if (resultCode == RESULT_OK && data != null) {
+//            QuoteModel updatedQuote = (QuoteModel) data.getSerializableExtra("updatedQuote");
+//        }
+//    }
 }

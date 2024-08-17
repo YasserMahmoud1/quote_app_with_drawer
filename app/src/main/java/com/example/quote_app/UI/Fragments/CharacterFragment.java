@@ -21,7 +21,7 @@ public class CharacterFragment extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-        View view = inflater.inflate(R.layout.fragment_quotes, container, false);
+        View view = inflater.inflate(R.layout.fragment_character, container, false);
 
         quotesListView = view.findViewById(R.id.quotes_list);
         List<QuoteModel> quotesList = QuoteRepo.getQuotes();

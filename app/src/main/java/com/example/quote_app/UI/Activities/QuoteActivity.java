@@ -75,11 +75,11 @@ public class QuoteActivity extends AppCompatActivity {
         }
     }
 
-    @Override
-    public void onBackPressed() {
-        Intent resultIntent = new Intent();
-        resultIntent.putExtra("updatedQuote", quoteModel);
-        setResult(RESULT_OK, resultIntent);
-        super.onBackPressed();
-    }
+//    @Override
+//    public void onBackPressed() {
+//        Intent resultIntent = new Intent();
+//        resultIntent.putExtra("updatedQuote", quoteModel);
+//        setResult(RESULT_OK, resultIntent);
+//        super.onBackPressed();
+//    }
 }

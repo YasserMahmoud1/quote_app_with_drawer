@@ -16,7 +16,7 @@ import androidx.annotation.NonNull;
 import java.util.List;
 
 public class QuoteAdapter extends ArrayAdapter<QuoteModel> {
-    private String type;
+    private final String type;
     List<QuoteModel> quotes ;
     public QuoteAdapter(Context context, int resource, int textViewResourceID, List<QuoteModel> list, String type){
         super(context, resource, textViewResourceID, list);
