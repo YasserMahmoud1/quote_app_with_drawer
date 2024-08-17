@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.quote_app-mergeDebugResources-29:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/home/yasser/.gradle/caches/transforms-4/d51a42d82539f1b924161eb87d8a4824/transformed/appcompat-1.7.0/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}

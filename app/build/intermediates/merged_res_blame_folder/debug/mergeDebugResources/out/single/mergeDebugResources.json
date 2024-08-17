@@ -1,0 +1,166 @@
+[
+    {
+        "merged": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-debug-31:/layout_quote_item.xml.flat",
+        "source": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-main-33:/layout/quote_item.xml"
+    },
+    {
+        "merged": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-debug-31:/layout_activity_login.xml.flat",
+        "source": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-main-33:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-debug-31:/layout_fragment_movies.xml.flat",
+        "source": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-main-33:/layout/fragment_movies.xml"
+    },
+    {
+        "merged": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-debug-31:/xml_backup_rules.xml.flat",
+        "source": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-main-33:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-debug-31:/layout_fragment_favourite.xml.flat",
+        "source": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-main-33:/layout/fragment_favourite.xml"
+    },
+    {
+        "merged": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-debug-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-debug-31:/layout_fragment_login.xml.flat",
+        "source": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-main-33:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-debug-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-debug-31:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-main-33:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-debug-31:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-main-33:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-debug-31:/layout_fragment_quotes.xml.flat",
+        "source": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-main-33:/layout/fragment_quotes.xml"
+    },
+    {
+        "merged": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-debug-31:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-main-33:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-debug-31:/drawable_stitch.jpg.flat",
+        "source": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-main-33:/drawable/stitch.jpg"
+    },
+    {
+        "merged": "com.example.quote_app-debug-31:/layout_quote_detailed.xml.flat",
+        "source": "com.example.quote_app-main-33:/layout/quote_detailed.xml"
+    },
+    {
+        "merged": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-debug-31:/layout_fragment_character.xml.flat",
+        "source": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-main-33:/layout/fragment_character.xml"
+    },
+    {
+        "merged": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-debug-31:/drawable_moana.jpeg.flat",
+        "source": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-main-33:/drawable/moana.jpeg"
+    },
+    {
+        "merged": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-debug-31:/drawable_cindrella.jpeg.flat",
+        "source": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-main-33:/drawable/cindrella.jpeg"
+    },
+    {
+        "merged": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-debug-31:/drawable_timon.jpg.flat",
+        "source": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-main-33:/drawable/timon.jpg"
+    },
+    {
+        "merged": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-debug-31:/drawable_po.jpeg.flat",
+        "source": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-main-33:/drawable/po.jpeg"
+    },
+    {
+        "merged": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-debug-31:/drawable_buzz.jpg.flat",
+        "source": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-main-33:/drawable/buzz.jpg"
+    },
+    {
+        "merged": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-debug-31:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-main-33:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-debug-31:/menu_navigation_drawer_menu.xml.flat",
+        "source": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-main-33:/menu/navigation_drawer_menu.xml"
+    },
+    {
+        "merged": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-debug-31:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-main-33:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-debug-31:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-main-33:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-debug-31:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-main-33:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-debug-31:/layout_quote_detailed.xml.flat",
+        "source": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-main-33:/layout/quote_detailed.xml"
+    },
+    {
+        "merged": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-debug-31:/drawable_dory.jpg.flat",
+        "source": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-main-33:/drawable/dory.jpg"
+    },
+    {
+        "merged": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-debug-31:/layout_nav_header.xml.flat",
+        "source": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-main-33:/layout/nav_header.xml"
+    },
+    {
+        "merged": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-debug-31:/drawable_olaf.jpeg.flat",
+        "source": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-main-33:/drawable/olaf.jpeg"
+    },
+    {
+        "merged": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-debug-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-main-33:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-debug-31:/drawable_wall_e.jpeg.flat",
+        "source": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-main-33:/drawable/wall_e.jpeg"
+    },
+    {
+        "merged": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-debug-31:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-main-33:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-debug-31:/drawable_image_shape.xml.flat",
+        "source": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-main-33:/drawable/image_shape.xml"
+    },
+    {
+        "merged": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-debug-31:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-main-33:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-debug-31:/drawable_genie.jpg.flat",
+        "source": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-main-33:/drawable/genie.jpg"
+    },
+    {
+        "merged": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-debug-31:/layout_activity_home.xml.flat",
+        "source": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-main-33:/layout/activity_home.xml"
+    },
+    {
+        "merged": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-debug-31:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-main-33:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-debug-31:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-main-33:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-debug-31:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-main-33:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-debug-31:/layout_fragment_registeration.xml.flat",
+        "source": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-main-33:/layout/fragment_registeration.xml"
+    },
+    {
+        "merged": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-debug-31:/layout_activity_main.xml.flat",
+        "source": "/home/yasser/.gradle/daemon/8.7/com.example.quote_app-main-33:/layout/activity_main.xml"
+    }
+]

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/registerTab"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        tools:ignore="UselessParent">
+        <LinearLayout
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:gravity="center"
+            >
+
+            <EditText
+                android:id="@+id/registerEditName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="24dp"
+                android:autofillHints="name"
+                android:inputType="text"
+                android:textColor="@color/white"
+                android:textColorHint="@color/white"
+                android:hint="Enter the Name"
+                />
+
+            <EditText
+                android:id="@+id/registerEditEmail"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="24dp"
+                android:autofillHints="emailAddress"
+                android:inputType="textEmailAddress"
+                android:textColor="@color/white"
+                android:textColorHint="@color/white"
+                android:hint="Enter the Email"
+                />
+            <EditText
+                android:id="@+id/registerEditPassword"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="24dp"
+                android:inputType="textPassword"
+                android:importantForAutofill="no"
+                android:textColor="@color/white"
+                android:textColorHint="@color/white"
+                android:hint="Enter the Password"
+                />
+
+            <EditText
+                android:id="@+id/registerEditPhone"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="24dp"
+                android:inputType="phone"
+                android:autofillHints="phone"
+                android:textColor="@color/white"
+                android:textColorHint="@color/white"
+                android:hint="Enter the Phone Number"
+                />
+
+            <Spinner
+                android:id="@+id/registerSpinner"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="12dp"
+                android:layout_marginTop="24dp"
+                android:layout_marginHorizontal="24dp"
+
+                />
+            <TextView
+                android:id="@+id/spinnerErrorText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="12dp"
+                android:layout_marginHorizontal="24dp"
+                android:layout_gravity="start"
+                android:text="Error: You should make a choice!"
+                android:textColor="@color/red"
+                android:visibility="invisible"
+                />
+
+            <Button
+                android:id="@+id/registerBtn"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Register"
+                android:layout_margin="24dp"
+                android:textColor="@color/white"
+                android:backgroundTint="@color/red"
+                />
+        </LinearLayout>
+
+    </ScrollView>
+
+</FrameLayout>

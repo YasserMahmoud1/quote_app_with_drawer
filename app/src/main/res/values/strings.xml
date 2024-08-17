@@ -1,0 +1,33 @@
+<resources>
+    <string-array name="spinner_items">
+        <item>Choose a country</item>
+        <item>Egypt</item>
+        <item>USA</item>
+        <item>France</item>
+        <item>France</item>
+        <item>UK</item>
+        <item>UEA</item>
+        <item>KSA</item>
+    </string-array>
+
+    <string name="app_name">Quote App With Login</string>
+    <string name="welcome_message"><b>Welcome to the Quote App</b></string>
+    <string name="go_to_home">Go to the quotes!</string>
+    <string name="image_of_the_quote">Image of the quote</string>
+    <string name="quote_info">Quote Info.</string>
+    <string name="quote">Quote</string>
+    <string name="movie_name">Movie Name</string>
+    <string name="publish_year">Publish Year</string>
+    <string name="character_name">Character Name</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login_register">Login / Register</string>
+    <string name="welcome_to_quote_app">Welcome to Quote App</string>
+    <string name="login">Login</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="enter_the_password">Enter the Password</string>
+    <string name="enter_the_email">Enter the Email</string>
+    <string name="open_navigation_drawer">Open navigation drawer</string>
+    <string name="close_navigation_drawer">Close navigation drawer</string>
+
+</resources>

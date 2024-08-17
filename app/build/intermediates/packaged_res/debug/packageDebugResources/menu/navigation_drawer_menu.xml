@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_quote_list"
+            android:title="Quote List"
+
+            />
+        <item
+            android:id="@+id/nav_movie_list"
+            android:title="Movie List"
+            />
+        <item
+            android:id="@+id/nav_movie_character"
+            android:title="Movie Character"
+            />
+        <item
+            android:id="@+id/nav_favourites"
+            android:title="Favourites"
+            />
+    </group>
+    <item android:title="Communication">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:title="shate"
+                />
+        </menu>
+    </item>
+</menu>

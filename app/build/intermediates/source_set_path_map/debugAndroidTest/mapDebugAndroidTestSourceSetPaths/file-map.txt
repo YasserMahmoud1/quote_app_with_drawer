@@ -1,0 +1,5 @@
+com.example.quote_app.test.app-core-1.6.1-0 /home/yasser/.gradle/caches/transforms-4/e80b697f3f6379b647d1bda19c174e5c/transformed/core-1.6.1/res
+com.example.quote_app.test.app-androidTest-1 /media/yasser/New Volume/DEPI/Lectures/Android 5/quote_app/app/build/generated/res/resValues/androidTest/debug
+com.example.quote_app.test.app-mergeDebugAndroidTestResources-2 /media/yasser/New Volume/DEPI/Lectures/Android 5/quote_app/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.quote_app.test.app-mergeDebugAndroidTestResources-3 /media/yasser/New Volume/DEPI/Lectures/Android 5/quote_app/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.quote_app.test.app-debugAndroidTest-4 /media/yasser/New Volume/DEPI/Lectures/Android 5/quote_app/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources

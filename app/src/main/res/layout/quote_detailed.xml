@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:background="@color/black"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical"
+    >
+    <ImageView
+
+        android:id="@+id/detailsImage"
+        android:layout_width="wrap_content"
+        android:layout_height="200dp"
+        android:contentDescription="@string/image_of_the_quote"
+        android:src="@drawable/po"
+        android:layout_margin="32dp"
+        android:layout_gravity="center"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/quote_info"
+        android:textColor="@color/red"
+        android:textSize="24sp"
+        android:layout_marginHorizontal="24dp"
+        />
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="24dp"
+        >
+        <TableRow
+            android:layout_marginVertical="16dp"
+            >
+            <TextView
+                android:text="@string/quote"
+                android:textColor="@color/white"
+                />
+            <TextView
+                android:id="@+id/detailsQuote"
+                android:text=""
+                android:textColor="@color/white"
+                android:layout_weight="1"
+                android:gravity="center"
+                />
+        </TableRow>
+        <TableRow
+            android:layout_marginVertical="16dp"
+            >
+            <TextView
+                android:text="@string/movie_name"
+                android:textColor="@color/white"
+                />
+            <TextView
+                android:id="@+id/detailsMovie"
+                android:text=""
+                android:textColor="@color/white"
+                android:layout_weight="1"
+                android:gravity="center"
+                />
+        </TableRow>
+        <TableRow
+            android:layout_marginVertical="16dp"
+            >
+            <TextView
+                android:text="@string/publish_year"
+                android:textColor="@color/white"
+                />
+            <TextView
+                android:id="@+id/detailsYear"
+                android:text=""
+                android:textColor="@color/white"
+                android:layout_weight="1"
+                android:gravity="center"
+                />
+        </TableRow>
+        <TableRow
+            android:layout_marginVertical="16dp"
+            >
+            <TextView
+                android:text="@string/character_name"
+                android:textColor="@color/white"
+                />
+            <TextView
+                android:id="@+id/detailsCharacter"
+                android:text=""
+                android:textColor="@color/white"
+                android:layout_weight="1"
+                android:gravity="center"
+                />
+        </TableRow>
+        <Button android:id="@+id/detailsButton"/>
+
+
+    </TableLayout>
+
+</LinearLayout>

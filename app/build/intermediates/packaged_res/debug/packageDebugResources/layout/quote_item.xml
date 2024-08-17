@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:padding="16sp"
+    tools:ignore="UseCompoundDrawables">
+
+    <ImageView
+        android:id="@+id/imageItem"
+        android:layout_width="100sp"
+        android:layout_height="100sp"
+        android:contentDescription="@string/image_of_the_quote"
+        android:layout_marginEnd="16dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/po"
+        android:background="@drawable/image_shape"
+        android:clipToOutline="true"
+
+        tools:ignore="UnusedAttribute" />
+
+    <TextView
+        android:id="@+id/textItem"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        />
+</LinearLayout>
